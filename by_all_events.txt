@@ -1,0 +1,345 @@
+0|play|26.12.2024, 14:05:57
+1|start|26.12.2024, 14:06:18
+2|green circle position: 359px |26.12.2024, 14:06:18
+3|red circle position:  192px|26.12.2024, 14:06:18
+4|green circle position: 364px |26.12.2024, 14:06:18
+5|red circle position:  197px|26.12.2024, 14:06:18
+6|green circle position: 369px |26.12.2024, 14:06:18
+7|red circle position:  202px|26.12.2024, 14:06:18
+8|green circle position: 374px |26.12.2024, 14:06:18
+9|red circle position:  207px|26.12.2024, 14:06:18
+10|green circle position: 379px |26.12.2024, 14:06:18
+11|red circle position:  212px|26.12.2024, 14:06:18
+12|green circle position: 384px |26.12.2024, 14:06:18
+13|red circle position:  217px|26.12.2024, 14:06:18
+14|green circle position: 389px |26.12.2024, 14:06:18
+15|red circle position:  222px|26.12.2024, 14:06:18
+16|green circle position: 394px |26.12.2024, 14:06:18
+17|red circle position:  227px|26.12.2024, 14:06:18
+18|green circle position: 399px |26.12.2024, 14:06:18
+19|red circle position:  232px|26.12.2024, 14:06:18
+20|green circle position: 404px |26.12.2024, 14:06:19
+21|red circle position:  237px|26.12.2024, 14:06:19
+22|green circle position: 409px |26.12.2024, 14:06:19
+23|red circle position:  242px|26.12.2024, 14:06:19
+24|green circle position: 414px |26.12.2024, 14:06:19
+25|red circle position:  247px|26.12.2024, 14:06:19
+26|green circle position: 419px |26.12.2024, 14:06:19
+27|red circle position:  252px|26.12.2024, 14:06:19
+28|green circle position: 424px |26.12.2024, 14:06:19
+29|red circle position:  257px|26.12.2024, 14:06:19
+30|green circle position: 429px |26.12.2024, 14:06:19
+31|red circle position:  262px|26.12.2024, 14:06:19
+32|green circle position: 434px |26.12.2024, 14:06:19
+33|red circle position:  267px|26.12.2024, 14:06:19
+34|green circle position: 439px |26.12.2024, 14:06:19
+35|red circle position:  272px|26.12.2024, 14:06:19
+36|green circle position: 444px |26.12.2024, 14:06:19
+37|red circle position:  277px|26.12.2024, 14:06:19
+38|green circle position: 449px |26.12.2024, 14:06:19
+39|red circle position:  282px|26.12.2024, 14:06:19
+40|green circle position: 454px |26.12.2024, 14:06:19
+41|red circle position:  287px|26.12.2024, 14:06:19
+42|green circle position: 459px |26.12.2024, 14:06:19
+43|red circle position:  292px|26.12.2024, 14:06:19
+44|green circle position: 464px |26.12.2024, 14:06:19
+45|red circle position:  297px|26.12.2024, 14:06:19
+46|green circle position: 469px |26.12.2024, 14:06:19
+47|red circle position:  302px|26.12.2024, 14:06:19
+48|green circle position: 474px |26.12.2024, 14:06:19
+49|red circle position:  307px|26.12.2024, 14:06:19
+50|green circle position: 479px |26.12.2024, 14:06:19
+51|red circle position:  312px|26.12.2024, 14:06:19
+52|green circle position: 484px |26.12.2024, 14:06:19
+53|red circle position:  317px|26.12.2024, 14:06:19
+54|green circle position: 489px |26.12.2024, 14:06:19
+55|red circle position:  322px|26.12.2024, 14:06:19
+56|green circle position: 494px |26.12.2024, 14:06:19
+57|red circle position:  327px|26.12.2024, 14:06:19
+58|green circle position: 499px |26.12.2024, 14:06:19
+59|red circle position:  332px|26.12.2024, 14:06:19
+60|green circle position: 504px |26.12.2024, 14:06:19
+61|red circle position:  337px|26.12.2024, 14:06:19
+62|green circle position: 509px |26.12.2024, 14:06:19
+63|red circle position:  342px|26.12.2024, 14:06:19
+64|green circle position: 514px |26.12.2024, 14:06:19
+65|red circle position:  347px|26.12.2024, 14:06:19
+66|green circle position: 519px |26.12.2024, 14:06:19
+67|red circle position:  352px|26.12.2024, 14:06:19
+68|green circle position: 524px |26.12.2024, 14:06:19
+69|red circle position:  357px|26.12.2024, 14:06:19
+70|green circle position: 529px |26.12.2024, 14:06:19
+71|red circle position:  362px|26.12.2024, 14:06:19
+72|green circle position: 534px |26.12.2024, 14:06:19
+73|red circle position:  367px|26.12.2024, 14:06:19
+74|green circle position: 539px |26.12.2024, 14:06:19
+75|red circle position:  372px|26.12.2024, 14:06:19
+76|green circle position: 544px |26.12.2024, 14:06:19
+77|red circle position:  377px|26.12.2024, 14:06:19
+78|green circle position: 549px |26.12.2024, 14:06:19
+79|red circle position:  382px|26.12.2024, 14:06:19
+80|green circle position: 554px |26.12.2024, 14:06:19
+81|red circle position:  387px|26.12.2024, 14:06:19
+82|green circle position: 559px |26.12.2024, 14:06:19
+83|red circle position:  392px|26.12.2024, 14:06:19
+84|green circle position: 564px |26.12.2024, 14:06:19
+85|red circle position:  397px|26.12.2024, 14:06:19
+86|green circle position: 569px |26.12.2024, 14:06:20
+87|red circle position:  402px|26.12.2024, 14:06:20
+88|green circle position: 574px |26.12.2024, 14:06:20
+89|red circle position:  407px|26.12.2024, 14:06:20
+90|green circle position: 579px |26.12.2024, 14:06:20
+91|red circle position:  412px|26.12.2024, 14:06:20
+92|green circle position: 584px |26.12.2024, 14:06:20
+93|red circle position:  417px|26.12.2024, 14:06:20
+94|red change direction|26.12.2024, 14:06:20
+95|green circle position: 589px |26.12.2024, 14:06:20
+96|red circle position:  412px|26.12.2024, 14:06:20
+97|green circle position: 594px |26.12.2024, 14:06:20
+98|red circle position:  407px|26.12.2024, 14:06:20
+99|green circle position: 599px |26.12.2024, 14:06:20
+100|red circle position:  402px|26.12.2024, 14:06:20
+101|green circle position: 604px |26.12.2024, 14:06:20
+102|red circle position:  397px|26.12.2024, 14:06:20
+103|green circle position: 609px |26.12.2024, 14:06:20
+104|red circle position:  392px|26.12.2024, 14:06:20
+105|green circle position: 614px |26.12.2024, 14:06:20
+106|red circle position:  387px|26.12.2024, 14:06:20
+107|green circle position: 619px |26.12.2024, 14:06:20
+108|red circle position:  382px|26.12.2024, 14:06:20
+109|green circle position: 624px |26.12.2024, 14:06:20
+110|red circle position:  377px|26.12.2024, 14:06:20
+111|green circle position: 629px |26.12.2024, 14:06:20
+112|red circle position:  372px|26.12.2024, 14:06:20
+113|green circle position: 634px |26.12.2024, 14:06:20
+114|red circle position:  367px|26.12.2024, 14:06:20
+115|green circle position: 639px |26.12.2024, 14:06:20
+116|red circle position:  362px|26.12.2024, 14:06:20
+117|green circle position: 644px |26.12.2024, 14:06:20
+118|red circle position:  357px|26.12.2024, 14:06:20
+119|green circle position: 649px |26.12.2024, 14:06:20
+120|red circle position:  352px|26.12.2024, 14:06:20
+121|green circle position: 654px |26.12.2024, 14:06:20
+122|red circle position:  347px|26.12.2024, 14:06:20
+123|green circle position: 659px |26.12.2024, 14:06:20
+124|red circle position:  342px|26.12.2024, 14:06:20
+125|green circle position: 664px |26.12.2024, 14:06:20
+126|red circle position:  337px|26.12.2024, 14:06:20
+127|green circle position: 669px |26.12.2024, 14:06:20
+128|red circle position:  332px|26.12.2024, 14:06:20
+129|green circle position: 674px |26.12.2024, 14:06:20
+130|red circle position:  327px|26.12.2024, 14:06:20
+131|green circle position: 679px |26.12.2024, 14:06:20
+132|red circle position:  322px|26.12.2024, 14:06:20
+133|green circle position: 684px |26.12.2024, 14:06:20
+134|red circle position:  317px|26.12.2024, 14:06:20
+135|green circle position: 689px |26.12.2024, 14:06:20
+136|red circle position:  312px|26.12.2024, 14:06:20
+137|green circle position: 694px |26.12.2024, 14:06:20
+138|red circle position:  307px|26.12.2024, 14:06:20
+139|green circle position: 699px |26.12.2024, 14:06:20
+140|red circle position:  302px|26.12.2024, 14:06:20
+141|green circle position: 704px |26.12.2024, 14:06:20
+142|red circle position:  297px|26.12.2024, 14:06:20
+143|green circle position: 709px |26.12.2024, 14:06:20
+144|red circle position:  292px|26.12.2024, 14:06:20
+145|green circle position: 714px |26.12.2024, 14:06:20
+146|red circle position:  287px|26.12.2024, 14:06:20
+147|green circle position: 719px |26.12.2024, 14:06:20
+148|red circle position:  282px|26.12.2024, 14:06:20
+149|green circle position: 724px |26.12.2024, 14:06:20
+150|red circle position:  277px|26.12.2024, 14:06:20
+151|green circle position: 729px |26.12.2024, 14:06:20
+152|red circle position:  272px|26.12.2024, 14:06:20
+153|green circle position: 734px |26.12.2024, 14:06:20
+154|red circle position:  267px|26.12.2024, 14:06:20
+155|green circle position: 739px |26.12.2024, 14:06:21
+156|red circle position:  262px|26.12.2024, 14:06:21
+157|green circle position: 744px |26.12.2024, 14:06:21
+158|red circle position:  257px|26.12.2024, 14:06:21
+159|green circle position: 749px |26.12.2024, 14:06:21
+160|red circle position:  252px|26.12.2024, 14:06:21
+161|green circle position: 754px |26.12.2024, 14:06:21
+162|red circle position:  247px|26.12.2024, 14:06:21
+163|green circle position: 759px |26.12.2024, 14:06:21
+164|red circle position:  242px|26.12.2024, 14:06:21
+165|green circle position: 764px |26.12.2024, 14:06:21
+166|red circle position:  237px|26.12.2024, 14:06:21
+167|green circle position: 769px |26.12.2024, 14:06:21
+168|red circle position:  232px|26.12.2024, 14:06:21
+169|green circle position: 774px |26.12.2024, 14:06:21
+170|red circle position:  227px|26.12.2024, 14:06:21
+171|green circle position: 779px |26.12.2024, 14:06:21
+172|red circle position:  222px|26.12.2024, 14:06:21
+173|green circle position: 784px |26.12.2024, 14:06:21
+174|red circle position:  217px|26.12.2024, 14:06:21
+175|green circle position: 789px |26.12.2024, 14:06:21
+176|red circle position:  212px|26.12.2024, 14:06:21
+177|green circle position: 794px |26.12.2024, 14:06:21
+178|red circle position:  207px|26.12.2024, 14:06:21
+179|green circle position: 799px |26.12.2024, 14:06:21
+180|red circle position:  202px|26.12.2024, 14:06:21
+181|green circle position: 804px |26.12.2024, 14:06:21
+182|red circle position:  197px|26.12.2024, 14:06:21
+183|green circle position: 809px |26.12.2024, 14:06:21
+184|red circle position:  192px|26.12.2024, 14:06:21
+185|green circle position: 814px |26.12.2024, 14:06:21
+186|red circle position:  187px|26.12.2024, 14:06:21
+187|green circle position: 819px |26.12.2024, 14:06:21
+188|red circle position:  182px|26.12.2024, 14:06:21
+189|green circle position: 824px |26.12.2024, 14:06:21
+190|red circle position:  177px|26.12.2024, 14:06:21
+191|green circle position: 829px |26.12.2024, 14:06:21
+192|red circle position:  172px|26.12.2024, 14:06:21
+193|green circle position: 834px |26.12.2024, 14:06:21
+194|red circle position:  167px|26.12.2024, 14:06:21
+195|green circle position: 839px |26.12.2024, 14:06:21
+196|red circle position:  162px|26.12.2024, 14:06:21
+197|green circle position: 844px |26.12.2024, 14:06:21
+198|red circle position:  157px|26.12.2024, 14:06:21
+199|green circle position: 849px |26.12.2024, 14:06:21
+200|red circle position:  152px|26.12.2024, 14:06:21
+201|green circle position: 854px |26.12.2024, 14:06:21
+202|red circle position:  147px|26.12.2024, 14:06:21
+203|green circle position: 859px |26.12.2024, 14:06:21
+204|red circle position:  142px|26.12.2024, 14:06:21
+205|green circle position: 864px |26.12.2024, 14:06:21
+206|red circle position:  137px|26.12.2024, 14:06:21
+207|green circle position: 869px |26.12.2024, 14:06:21
+208|red circle position:  132px|26.12.2024, 14:06:21
+209|green circle position: 874px |26.12.2024, 14:06:21
+210|red circle position:  127px|26.12.2024, 14:06:21
+211|green circle position: 879px |26.12.2024, 14:06:21
+212|red circle position:  122px|26.12.2024, 14:06:21
+213|green circle position: 884px |26.12.2024, 14:06:21
+214|red circle position:  117px|26.12.2024, 14:06:21
+215|green circle position: 889px |26.12.2024, 14:06:21
+216|red circle position:  112px|26.12.2024, 14:06:21
+217|green circle position: 894px |26.12.2024, 14:06:21
+218|red circle position:  107px|26.12.2024, 14:06:21
+219|green circle position: 899px |26.12.2024, 14:06:21
+220|red circle position:  102px|26.12.2024, 14:06:21
+221|green circle position: 904px |26.12.2024, 14:06:22
+222|red circle position:  97px|26.12.2024, 14:06:22
+223|green circle position: 909px |26.12.2024, 14:06:22
+224|red circle position:  92px|26.12.2024, 14:06:22
+225|green circle position: 914px |26.12.2024, 14:06:22
+226|red circle position:  87px|26.12.2024, 14:06:22
+227|green circle position: 919px |26.12.2024, 14:06:22
+228|red circle position:  82px|26.12.2024, 14:06:22
+229|green circle position: 924px |26.12.2024, 14:06:22
+230|red circle position:  77px|26.12.2024, 14:06:22
+231|green circle position: 929px |26.12.2024, 14:06:22
+232|red circle position:  72px|26.12.2024, 14:06:22
+233|green circle position: 934px |26.12.2024, 14:06:22
+234|red circle position:  67px|26.12.2024, 14:06:22
+235|green circle position: 939px |26.12.2024, 14:06:22
+236|red circle position:  62px|26.12.2024, 14:06:22
+237|green circle position: 944px |26.12.2024, 14:06:22
+238|red circle position:  57px|26.12.2024, 14:06:22
+239|green circle position: 949px |26.12.2024, 14:06:22
+240|red circle position:  52px|26.12.2024, 14:06:22
+241|green circle position: 954px |26.12.2024, 14:06:22
+242|red circle position:  47px|26.12.2024, 14:06:22
+243|green circle position: 959px |26.12.2024, 14:06:22
+244|red circle position:  42px|26.12.2024, 14:06:22
+245|green circle position: 964px |26.12.2024, 14:06:22
+246|red circle position:  37px|26.12.2024, 14:06:22
+247|green circle position: 969px |26.12.2024, 14:06:22
+248|red circle position:  32px|26.12.2024, 14:06:22
+249|green change direction|26.12.2024, 14:06:22
+250|green circle position: 964px |26.12.2024, 14:06:22
+251|red circle position:  27px|26.12.2024, 14:06:22
+252|green circle position: 959px |26.12.2024, 14:06:22
+253|red circle position:  22px|26.12.2024, 14:06:22
+254|green circle position: 954px |26.12.2024, 14:06:22
+255|red circle position:  17px|26.12.2024, 14:06:22
+256|green circle position: 949px |26.12.2024, 14:06:22
+257|red circle position:  12px|26.12.2024, 14:06:22
+258|green circle position: 944px |26.12.2024, 14:06:22
+259|red circle position:  7px|26.12.2024, 14:06:22
+260|green circle position: 939px |26.12.2024, 14:06:22
+261|red circle position:  2px|26.12.2024, 14:06:22
+262|green circle position: 934px |26.12.2024, 14:06:22
+263|red circle position:  -3px|26.12.2024, 14:06:22
+264|red change direction|26.12.2024, 14:06:22
+265|green circle position: 929px |26.12.2024, 14:06:22
+266|red circle position:  2px|26.12.2024, 14:06:22
+267|green circle position: 924px |26.12.2024, 14:06:22
+268|red circle position:  7px|26.12.2024, 14:06:22
+269|green circle position: 919px |26.12.2024, 14:06:22
+270|red circle position:  12px|26.12.2024, 14:06:22
+271|green circle position: 914px |26.12.2024, 14:06:22
+272|red circle position:  17px|26.12.2024, 14:06:22
+273|green circle position: 909px |26.12.2024, 14:06:22
+274|red circle position:  22px|26.12.2024, 14:06:22
+275|green circle position: 904px |26.12.2024, 14:06:22
+276|red circle position:  27px|26.12.2024, 14:06:22
+277|green circle position: 899px |26.12.2024, 14:06:22
+278|red circle position:  32px|26.12.2024, 14:06:22
+279|green circle position: 894px |26.12.2024, 14:06:22
+280|red circle position:  37px|26.12.2024, 14:06:22
+281|green circle position: 889px |26.12.2024, 14:06:22
+282|red circle position:  42px|26.12.2024, 14:06:22
+283|green circle position: 884px |26.12.2024, 14:06:22
+284|red circle position:  47px|26.12.2024, 14:06:22
+285|green circle position: 879px |26.12.2024, 14:06:22
+286|red circle position:  52px|26.12.2024, 14:06:22
+287|green circle position: 874px |26.12.2024, 14:06:22
+288|red circle position:  57px|26.12.2024, 14:06:22
+289|green circle position: 869px |26.12.2024, 14:06:23
+290|red circle position:  62px|26.12.2024, 14:06:23
+291|green circle position: 864px |26.12.2024, 14:06:23
+292|red circle position:  67px|26.12.2024, 14:06:23
+293|green circle position: 859px |26.12.2024, 14:06:23
+294|red circle position:  72px|26.12.2024, 14:06:23
+295|green circle position: 854px |26.12.2024, 14:06:23
+296|red circle position:  77px|26.12.2024, 14:06:23
+297|green circle position: 849px |26.12.2024, 14:06:23
+298|red circle position:  82px|26.12.2024, 14:06:23
+299|green circle position: 844px |26.12.2024, 14:06:23
+300|red circle position:  87px|26.12.2024, 14:06:23
+301|green circle position: 839px |26.12.2024, 14:06:23
+302|red circle position:  92px|26.12.2024, 14:06:23
+303|green circle position: 834px |26.12.2024, 14:06:23
+304|red circle position:  97px|26.12.2024, 14:06:23
+305|green circle position: 829px |26.12.2024, 14:06:23
+306|red circle position:  102px|26.12.2024, 14:06:23
+307|green circle position: 824px |26.12.2024, 14:06:23
+308|red circle position:  107px|26.12.2024, 14:06:23
+309|green circle position: 819px |26.12.2024, 14:06:23
+310|red circle position:  112px|26.12.2024, 14:06:23
+311|green circle position: 814px |26.12.2024, 14:06:23
+312|red circle position:  117px|26.12.2024, 14:06:23
+313|green circle position: 809px |26.12.2024, 14:06:23
+314|red circle position:  122px|26.12.2024, 14:06:23
+315|green circle position: 804px |26.12.2024, 14:06:23
+316|red circle position:  127px|26.12.2024, 14:06:23
+317|green circle position: 799px |26.12.2024, 14:06:23
+318|red circle position:  132px|26.12.2024, 14:06:23
+319|green circle position: 794px |26.12.2024, 14:06:23
+320|red circle position:  137px|26.12.2024, 14:06:23
+321|green circle position: 789px |26.12.2024, 14:06:23
+322|red circle position:  142px|26.12.2024, 14:06:23
+323|green circle position: 784px |26.12.2024, 14:06:23
+324|red circle position:  147px|26.12.2024, 14:06:23
+325|green circle position: 779px |26.12.2024, 14:06:23
+326|red circle position:  152px|26.12.2024, 14:06:23
+327|green circle position: 774px |26.12.2024, 14:06:23
+328|red circle position:  157px|26.12.2024, 14:06:23
+329|green circle position: 769px |26.12.2024, 14:06:23
+330|red circle position:  162px|26.12.2024, 14:06:23
+331|green circle position: 764px |26.12.2024, 14:06:23
+332|red circle position:  167px|26.12.2024, 14:06:23
+333|green circle position: 759px |26.12.2024, 14:06:23
+334|red circle position:  172px|26.12.2024, 14:06:23
+335|green circle position: 754px |26.12.2024, 14:06:23
+336|red circle position:  177px|26.12.2024, 14:06:23
+337|green circle position: 749px |26.12.2024, 14:06:23
+338|red circle position:  182px|26.12.2024, 14:06:23
+339|green circle position: 744px |26.12.2024, 14:06:23
+340|red circle position:  187px|26.12.2024, 14:06:23
+341|green circle position: 739px |26.12.2024, 14:06:23
+342|red circle position:  192px|26.12.2024, 14:06:23
+343|stop|26.12.2024, 14:06:23
+344|close|26.12.2024, 14:06:28

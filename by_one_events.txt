@@ -1,0 +1,329 @@
+0|play|2024-12-26 16:05:57.409994
+1|start|2024-12-26 16:06:18.721440
+2|green circle position: 359px |2024-12-26 16:06:18.758439
+3|red circle position:  192px|2024-12-26 16:06:18.765439
+4|green circle position: 364px |2024-12-26 16:06:18.787453
+5|red circle position:  197px|2024-12-26 16:06:18.793452
+6|green circle position: 369px |2024-12-26 16:06:18.813229
+7|red circle position:  202px|2024-12-26 16:06:18.819229
+8|green circle position: 374px |2024-12-26 16:06:18.848434
+9|red circle position:  207px|2024-12-26 16:06:18.854434
+10|green circle position: 379px |2024-12-26 16:06:18.878434
+11|red circle position:  212px|2024-12-26 16:06:18.885432
+12|green circle position: 384px |2024-12-26 16:06:18.907443
+13|red circle position:  217px|2024-12-26 16:06:18.913254
+14|green circle position: 389px |2024-12-26 16:06:18.937271
+15|red circle position:  222px|2024-12-26 16:06:18.943271
+16|green circle position: 394px |2024-12-26 16:06:18.967271
+17|red circle position:  227px|2024-12-26 16:06:18.973271
+18|green circle position: 399px |2024-12-26 16:06:19.000272
+19|red circle position:  232px|2024-12-26 16:06:19.008592
+20|green circle position: 404px |2024-12-26 16:06:19.029540
+21|red circle position:  237px|2024-12-26 16:06:19.036540
+22|green circle position: 409px |2024-12-26 16:06:19.059540
+23|red circle position:  242px|2024-12-26 16:06:19.059540
+24|green circle position: 414px |2024-12-26 16:06:19.089273
+25|red circle position:  247px|2024-12-26 16:06:19.089273
+26|green circle position: 419px |2024-12-26 16:06:19.117742
+27|red circle position:  252px|2024-12-26 16:06:19.117742
+29|red circle position:  257px|2024-12-26 16:06:19.149493
+
+30|green circle position: 429px |2024-12-26 16:06:19.177655
+33|red circle position:  267px|2024-12-26 16:06:19.208191
+32|green circle position: 434px |2024-12-26 16:06:19.208191
+35|red circle position:  272px|2024-12-26 16:06:19.236240
+34|green circle position: 439px |2024-12-26 16:06:19.236240
+37|red circle position:  277px|2024-12-26 16:06:19.267240
+
+39|red circle position:  282px|2024-12-26 16:06:19.297134
+38|green circle position: 449px |2024-12-26 16:06:19.297134
+40|green circle position: 454px |2024-12-26 16:06:19.326133
+43|red circle position:  292px|2024-12-26 16:06:19.357149
+
+45|red circle position:  297px|2024-12-26 16:06:19.388166
+
+46|green circle position: 469px |2024-12-26 16:06:19.419165
+47|red circle position:  302px|2024-12-26 16:06:19.419165
+48|green circle position: 474px |2024-12-26 16:06:19.447179
+49|red circle position:  307px|2024-12-26 16:06:19.447179
+50|green circle position: 479px |2024-12-26 16:06:19.478179
+51|red circle position:  312px|2024-12-26 16:06:19.478179
+53|red circle position:  317px|2024-12-26 16:06:19.507180
+
+54|green circle position: 489px |2024-12-26 16:06:19.538180
+55|red circle position:  322px|2024-12-26 16:06:19.538180
+56|green circle position: 494px |2024-12-26 16:06:19.567179
+57|red circle position:  327px|2024-12-26 16:06:19.567179
+59|red circle position:  332px|2024-12-26 16:06:19.597030
+58|green circle position: 499px |2024-12-26 16:06:19.597030
+61|red circle position:  337px|2024-12-26 16:06:19.627031
+60|green circle position: 504px |2024-12-26 16:06:19.627031
+63|red circle position:  342px|2024-12-26 16:06:19.658211
+62|green circle position: 509px |2024-12-26 16:06:19.658211
+65|red circle position:  347px|2024-12-26 16:06:19.687211
+64|green circle position: 514px |2024-12-26 16:06:19.688213
+66|green circle position: 519px |2024-12-26 16:06:19.720212
+67|red circle position:  352px|2024-12-26 16:06:19.720212
+68|green circle position: 524px |2024-12-26 16:06:19.753212
+69|red circle position:  357px|2024-12-26 16:06:19.753212
+70|green circle position: 529px |2024-12-26 16:06:19.778211
+73|red circle position:  367px|2024-12-26 16:06:19.807211
+72|green circle position: 534px |2024-12-26 16:06:19.807211
+75|red circle position:  372px|2024-12-26 16:06:19.838225
+74|green circle position: 539px |2024-12-26 16:06:19.838225
+76|green circle position: 544px |2024-12-26 16:06:19.863228
+77|red circle position:  377px|2024-12-26 16:06:19.870228
+79|red circle position:  382px|2024-12-26 16:06:19.898432
+78|green circle position: 549px |2024-12-26 16:06:19.898432
+81|red circle position:  387px|2024-12-26 16:06:19.929285
+80|green circle position: 554px |2024-12-26 16:06:19.929285
+82|green circle position: 559px |2024-12-26 16:06:19.957811
+83|red circle position:  392px|2024-12-26 16:06:19.957811
+84|green circle position: 564px |2024-12-26 16:06:19.988809
+85|red circle position:  397px|2024-12-26 16:06:19.988809
+87|red circle position:  402px|2024-12-26 16:06:20.017651
+86|green circle position: 569px |2024-12-26 16:06:20.017651
+88|green circle position: 574px |2024-12-26 16:06:20.049486
+89|red circle position:  407px|2024-12-26 16:06:20.049486
+91|red circle position:  412px|2024-12-26 16:06:20.080122
+
+92|green circle position: 584px |2024-12-26 16:06:20.108783
+93|red circle position:  417px|2024-12-26 16:06:20.108783
+95|green circle position: 589px |2024-12-26 16:06:20.139970
+94|red change direction|2024-12-26 16:06:20.139970
+96|red circle position:  412px|2024-12-26 16:06:20.139970
+97|green circle position: 594px |2024-12-26 16:06:20.167001
+98|red circle position:  407px|2024-12-26 16:06:20.167001
+100|red circle position:  402px|2024-12-26 16:06:20.198002
+99|green circle position: 599px |2024-12-26 16:06:20.198002
+102|red circle position:  397px|2024-12-26 16:06:20.227046
+101|green circle position: 604px |2024-12-26 16:06:20.227046
+103|green circle position: 609px |2024-12-26 16:06:20.258787
+104|red circle position:  392px|2024-12-26 16:06:20.258787
+106|red circle position:  387px|2024-12-26 16:06:20.288436
+105|green circle position: 614px |2024-12-26 16:06:20.288436
+107|green circle position: 619px |2024-12-26 16:06:20.316685
+110|red circle position:  377px|2024-12-26 16:06:20.349701
+
+111|green circle position: 629px |2024-12-26 16:06:20.378731
+112|red circle position:  372px|2024-12-26 16:06:20.379728
+113|green circle position: 634px |2024-12-26 16:06:20.408731
+114|red circle position:  367px|2024-12-26 16:06:20.408731
+115|green circle position: 639px |2024-12-26 16:06:20.438248
+116|red circle position:  362px|2024-12-26 16:06:20.439251
+118|red circle position:  357px|2024-12-26 16:06:20.467249
+117|green circle position: 644px |2024-12-26 16:06:20.467249
+119|green circle position: 649px |2024-12-26 16:06:20.497433
+120|red circle position:  352px|2024-12-26 16:06:20.498432
+122|red circle position:  347px|2024-12-26 16:06:20.527435
+121|green circle position: 654px |2024-12-26 16:06:20.527435
+124|red circle position:  342px|2024-12-26 16:06:20.557442
+
+125|green circle position: 664px |2024-12-26 16:06:20.588373
+126|red circle position:  337px|2024-12-26 16:06:20.588373
+128|red circle position:  332px|2024-12-26 16:06:20.618383
+127|green circle position: 669px |2024-12-26 16:06:20.618383
+129|green circle position: 674px |2024-12-26 16:06:20.649382
+130|red circle position:  327px|2024-12-26 16:06:20.649382
+131|green circle position: 679px |2024-12-26 16:06:20.678383
+132|red circle position:  322px|2024-12-26 16:06:20.678383
+134|red circle position:  317px|2024-12-26 16:06:20.708398
+133|green circle position: 684px |2024-12-26 16:06:20.708398
+136|red circle position:  312px|2024-12-26 16:06:20.738434
+
+137|green circle position: 694px |2024-12-26 16:06:20.768461
+138|red circle position:  307px|2024-12-26 16:06:20.768461
+139|green circle position: 699px |2024-12-26 16:06:20.798458
+140|red circle position:  302px|2024-12-26 16:06:20.798458
+141|green circle position: 704px |2024-12-26 16:06:20.828793
+142|red circle position:  297px|2024-12-26 16:06:20.828793
+143|green circle position: 709px |2024-12-26 16:06:20.856787
+144|red circle position:  292px|2024-12-26 16:06:20.856787
+145|green circle position: 714px |2024-12-26 16:06:20.888787
+146|red circle position:  287px|2024-12-26 16:06:20.888787
+147|green circle position: 719px |2024-12-26 16:06:20.918748
+148|red circle position:  282px|2024-12-26 16:06:20.918748
+150|red circle position:  277px|2024-12-26 16:06:20.948248
+
+151|green circle position: 729px |2024-12-26 16:06:20.978266
+152|red circle position:  272px|2024-12-26 16:06:20.978266
+154|red circle position:  267px|2024-12-26 16:06:21.008276
+
+156|red circle position:  262px|2024-12-26 16:06:21.038276
+155|green circle position: 739px |2024-12-26 16:06:21.038276
+157|green circle position: 744px |2024-12-26 16:06:21.068277
+158|red circle position:  257px|2024-12-26 16:06:21.068277
+159|green circle position: 749px |2024-12-26 16:06:21.098277
+160|red circle position:  252px|2024-12-26 16:06:21.098277
+161|green circle position: 754px |2024-12-26 16:06:21.129278
+162|red circle position:  247px|2024-12-26 16:06:21.129278
+163|green circle position: 759px |2024-12-26 16:06:21.157277
+164|red circle position:  242px|2024-12-26 16:06:21.157277
+165|green circle position: 764px |2024-12-26 16:06:21.188277
+166|red circle position:  237px|2024-12-26 16:06:21.188277
+167|green circle position: 769px |2024-12-26 16:06:21.218276
+168|red circle position:  232px|2024-12-26 16:06:21.218276
+170|red circle position:  227px|2024-12-26 16:06:21.248277
+169|green circle position: 774px |2024-12-26 16:06:21.248277
+172|red circle position:  222px|2024-12-26 16:06:21.278278
+
+173|green circle position: 784px |2024-12-26 16:06:21.309148
+175|green circle position: 789px |2024-12-26 16:06:21.338226
+176|red circle position:  212px|2024-12-26 16:06:21.338226
+177|green circle position: 794px |2024-12-26 16:06:21.364061
+179|green circle position: 799px |2024-12-26 16:06:21.398514
+180|red circle position:  202px|2024-12-26 16:06:21.398514
+181|green circle position: 804px |2024-12-26 16:06:21.428327
+184|red circle position:  192px|2024-12-26 16:06:21.458326
+183|green circle position: 809px |2024-12-26 16:06:21.458326
+185|green circle position: 814px |2024-12-26 16:06:21.488325
+186|red circle position:  187px|2024-12-26 16:06:21.488325
+187|green circle position: 819px |2024-12-26 16:06:21.519326
+188|red circle position:  182px|2024-12-26 16:06:21.519326
+189|green circle position: 824px |2024-12-26 16:06:21.549326
+190|red circle position:  177px|2024-12-26 16:06:21.549326
+192|red circle position:  172px|2024-12-26 16:06:21.579327
+191|green circle position: 829px |2024-12-26 16:06:21.579327
+193|green circle position: 834px |2024-12-26 16:06:21.608325
+194|red circle position:  167px|2024-12-26 16:06:21.608325
+195|green circle position: 839px |2024-12-26 16:06:21.637356
+197|green circle position: 844px |2024-12-26 16:06:21.669128
+199|green circle position: 849px |2024-12-26 16:06:21.698128
+200|red circle position:  152px|2024-12-26 16:06:21.698128
+201|green circle position: 854px |2024-12-26 16:06:21.728789
+202|red circle position:  147px|2024-12-26 16:06:21.728789
+203|green circle position: 859px |2024-12-26 16:06:21.757780
+204|red circle position:  142px|2024-12-26 16:06:21.757780
+205|green circle position: 864px |2024-12-26 16:06:21.789780
+206|red circle position:  137px|2024-12-26 16:06:21.789780
+208|red circle position:  132px|2024-12-26 16:06:21.818779
+207|green circle position: 869px |2024-12-26 16:06:21.818779
+209|green circle position: 874px |2024-12-26 16:06:21.848303
+210|red circle position:  127px|2024-12-26 16:06:21.848303
+212|red circle position:  122px|2024-12-26 16:06:21.875302
+211|green circle position: 879px |2024-12-26 16:06:21.875302
+214|red circle position:  117px|2024-12-26 16:06:21.908303
+
+215|green circle position: 889px |2024-12-26 16:06:21.938314
+216|red circle position:  112px|2024-12-26 16:06:21.938314
+217|green circle position: 894px |2024-12-26 16:06:21.970314
+218|red circle position:  107px|2024-12-26 16:06:21.970314
+219|green circle position: 899px |2024-12-26 16:06:21.997315
+220|red circle position:  102px|2024-12-26 16:06:21.997315
+221|green circle position: 904px |2024-12-26 16:06:22.029983
+222|red circle position:  97px|2024-12-26 16:06:22.029983
+223|green circle position: 909px |2024-12-26 16:06:22.058983
+224|red circle position:  92px|2024-12-26 16:06:22.058983
+225|green circle position: 914px |2024-12-26 16:06:22.087983
+228|red circle position:  82px|2024-12-26 16:06:22.116984
+227|green circle position: 919px |2024-12-26 16:06:22.116984
+229|green circle position: 924px |2024-12-26 16:06:22.148456
+230|red circle position:  77px|2024-12-26 16:06:22.148456
+231|green circle position: 929px |2024-12-26 16:06:22.178467
+232|red circle position:  72px|2024-12-26 16:06:22.179467
+234|red circle position:  67px|2024-12-26 16:06:22.209132
+2
+235|green circle position: 939px |2024-12-26 16:06:22.236868
+238|red circle position:  57px|2024-12-26 16:06:22.268882
+2
+239|green circle position: 949px |2024-12-26 16:06:22.297898
+240|red circle position:  52px|2024-12-26 16:06:22.297898
+242|red circle position:  47px|2024-12-26 16:06:22.328444
+241|green circle position: 954px |2024-12-26 16:06:22.328444
+243|green circle position: 959px |2024-12-26 16:06:22.358435
+244|red circle position:  42px|2024-12-26 16:06:22.358435
+245|green circle position: 964px |2024-12-26 16:06:22.383254
+246|red circle position:  37px|2024-12-26 16:06:22.383254
+248|red circle position:  32px|2024-12-26 16:06:22.419252
+247|green circle position: 969px |2024-12-26 16:06:22.419252
+250|green circle position: 964px |2024-12-26 16:06:22.449262
+251|red circle position:  27px|2024-12-26 16:06:22.449262
+249|green change direction|2024-12-26 16:06:22.449262
+252|green circle position: 959px |2024-12-26 16:06:22.477904
+253|red circle position:  22px|2024-12-26 16:06:22.477904
+255|red circle position:  17px|2024-12-26 16:06:22.508013
+3
+256|green circle position: 949px |2024-12-26 16:06:22.539798
+257|red circle position:  12px|2024-12-26 16:06:22.539798
+258|green circle position: 944px |2024-12-26 16:06:22.569799
+259|red circle position:  7px|2024-12-26 16:06:22.569799
+260|green circle position: 939px |2024-12-26 16:06:22.599813
+262|green circle position: 934px |2024-12-26 16:06:22.628529
+263|red circle position:  -3px|2024-12-26 16:06:22.628529
+265|green circle position: 929px |2024-12-26 16:06:22.659260
+266|red circle position:  2px|2024-12-26 16:06:22.659260
+264|red change direction|2024-12-26 16:06:22.659260
+267|green circle position: 924px |2024-12-26 16:06:22.688258
+268|red circle position:  7px|2024-12-26 16:06:22.688258
+269|green circle position: 919px |2024-12-26 16:06:22.718130
+270|red circle position:  12px|2024-12-26 16:06:22.718130
+271|green circle position: 914px |2024-12-26 16:06:22.747777
+272|red circle position:  17px|2024-12-26 16:06:22.747777
+273|green circle position: 909px |2024-12-26 16:06:22.778788
+274|red circle position:  22px|2024-12-26 16:06:22.778788
+275|green circle position: 904px |2024-12-26 16:06:22.810024
+276|red circle position:  27px|2024-12-26 16:06:22.810024
+278|red circle position:  32px|2024-12-26 16:06:22.838396
+277|green circle position: 899px |2024-12-26 16:06:22.838396
+279|green circle position: 894px |2024-12-26 16:06:22.869132
+281|green circle position: 889px |2024-12-26 16:06:22.898132
+282|red circle position:  42px|2024-12-26 16:06:22.898132
+284|red circle position:  47px|2024-12-26 16:06:22.928255
+283|green circle position: 884px |2024-12-26 16:06:22.928255
+285|green circle position: 879px |2024-12-26 16:06:22.957256
+286|red circle position:  52px|2024-12-26 16:06:22.958256
+287|green circle position: 874px |2024-12-26 16:06:22.987256
+288|red circle position:  57px|2024-12-26 16:06:22.987256
+290|red circle position:  62px|2024-12-26 16:06:23.018255
+5
+292|red circle position:  67px|2024-12-26 16:06:23.048255
+5
+293|green circle position: 859px |2024-12-26 16:06:23.079255
+294|red circle position:  72px|2024-12-26 16:06:23.079255
+296|red circle position:  77px|2024-12-26 16:06:23.111256
+295|green circle position: 854px |2024-12-26 16:06:23.111256
+298|red circle position:  82px|2024-12-26 16:06:23.138256
+297|green circle position: 849px |2024-12-26 16:06:23.138256
+300|red circle position:  87px|2024-12-26 16:06:23.167256
+299|green circle position: 844px |2024-12-26 16:06:23.167256
+302|red circle position:  92px|2024-12-26 16:06:23.198256
+301|green circle position: 839px |2024-12-26 16:06:23.198256
+303|green circle position: 834px |2024-12-26 16:06:23.228525
+305|green circle position: 829px |2024-12-26 16:06:23.259516
+306|red circle position:  102px|2024-12-26 16:06:23.259516
+308|red circle position:  107px|2024-12-26 16:06:23.288516
+
+309|green circle position: 819px |2024-12-26 16:06:23.318134
+312|red circle position:  117px|2024-12-26 16:06:23.348563
+
+313|green circle position: 809px |2024-12-26 16:06:23.378136
+314|red circle position:  122px|2024-12-26 16:06:23.378136
+315|green circle position: 804px |2024-12-26 16:06:23.403151
+316|red circle position:  127px|2024-12-26 16:06:23.409150
+318|red circle position:  132px|2024-12-26 16:06:23.438444
+317|green circle position: 799px |2024-12-26 16:06:23.438444
+320|red circle position:  137px|2024-12-26 16:06:23.468444
+319|green circle position: 794px |2024-12-26 16:06:23.468444
+322|red circle position:  142px|2024-12-26 16:06:23.498443
+321|green circle position: 789px |2024-12-26 16:06:23.498443
+323|green circle position: 784px |2024-12-26 16:06:23.528445
+324|red circle position:  147px|2024-12-26 16:06:23.528445
+325|green circle position: 779px |2024-12-26 16:06:23.558901
+327|green circle position: 774px |2024-12-26 16:06:23.588903
+328|red circle position:  157px|2024-12-26 16:06:23.588903
+329|green circle position: 769px |2024-12-26 16:06:23.619800
+330|red circle position:  162px|2024-12-26 16:06:23.619800
+331|green circle position: 764px |2024-12-26 16:06:23.648852
+332|red circle position:  167px|2024-12-26 16:06:23.648852
+334|red circle position:  172px|2024-12-26 16:06:23.679855
+
+335|green circle position: 754px |2024-12-26 16:06:23.708856
+336|red circle position:  177px|2024-12-26 16:06:23.708856
+337|green circle position: 749px |2024-12-26 16:06:23.737448
+338|red circle position:  182px|2024-12-26 16:06:23.737448
+340|red circle position:  187px|2024-12-26 16:06:23.767448
+
+342|red circle position:  192px|2024-12-26 16:06:23.797449
+
+343|stop|2024-12-26 16:06:23.810446
+344|close|2024-12-26 16:06:28.399581
